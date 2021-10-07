@@ -1,0 +1,11 @@
+{
+    "name": "name",
+    "description": "description",
+    "image": "https://raw.githubusercontent.com/sahancava/rinkeby/main/676-6764939_transparent-cappy-png-paper-mario-pixel-art-png.png",
+    "attributes": [
+        {
+            "trait_type": "trait",
+            "value": 100
+        }
+    ]
+}
