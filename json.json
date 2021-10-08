@@ -2,12 +2,6 @@
     "name": "name",
     "description": "description",
     "image": "https://openmoji.org/data/color/svg/1FA99.svg",
-    "attributes": [
-        {
-            "trait_type": "power",
-            "value": 100
-        },
-    ],
     "properties": {
 		"simple_property": "example value",
 		"rich_property": {
