@@ -1,11 +1,30 @@
 {
     "name": "name",
     "description": "description",
-    "image": "https://raw.githubusercontent.com/sahancava/rinkeby/main/676-6764939_transparent-cappy-png-paper-mario-pixel-art-png.png",
+    "image": "https://openmoji.org/data/color/svg/1FA99.svg",
     "attributes": [
         {
-            "trait_type": "trait",
+            "trait_type": "power",
             "value": 100
-        }
-    ]
+        },
+    ],
+    "properties": {
+		"simple_property": "example value",
+		"rich_property": {
+			"name": "Name",
+			"value": "123",
+			"display_value": "123 Example Value",
+			"class": "emphasis",
+			"css": {
+				"color": "#ffffff",
+				"font-weight": "bold",
+				"text-decoration": "underline"
+			}
+		},
+		"array_property": {
+			"name": "Name",
+			"value": [1,2,3,4],
+			"class": "emphasis"
+		}
+	}
 }
