@@ -1,0 +1,43 @@
+{
+  "dna": "e0fd80337c8bb096bf00ca18fd9478eb43a78e801633890715201",
+  "name": "#8",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://QmfMv7QaHexLAfAFcqxoMq73Wm7PobrBdhJ7aFm3F89WA8/8.png",
+  "edition": 8,
+  "date": 1633890715201,
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "100"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "High"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
